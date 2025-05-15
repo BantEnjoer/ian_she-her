@@ -111,8 +111,7 @@ def clean_text(text):
     tokens = [token for token in tokens if token not in stopwords.words('english') 
               and token not in stopwords.words('russian')]
     return tokens
-
-🚬, [15.05.2025 20:51]
+    
 def analyze_duration_popularity(df, dashboard_dir):
     """
     Строит scatter plot зависимости популярности от длительности трека.
