@@ -1,10 +1,11 @@
-requests==2.31.0
-spotipy==2.23.0
-pandas==2.0.3
-matplotlib==3.7.2
-seaborn==0.12.2
-wordcloud==1.9.2
-nltk==3.8.1
-streamlit==1.27.0
-jupyter==1.0.0
-
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+spotipy
+lyricsgenius
+nltk
+flask
+3. Jupyter Notebook
+(Файл: notebooks/analysis_goodbye_horses.ipynb)
